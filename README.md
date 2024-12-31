@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I'm Ash. A Tech Lead working on Nando's Online Ordering Platforms
 
-<!--
-**emacsified/emacsified** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build scalable cloud-native systems using Go and TypeScript. My expertise includes:
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack
+- **Languages:** Go, TypeScript, JavaScript
+- **Cloud & Infrastructure:** AWS, Kubernetes, Docker
+- **Tools & Practices:** CI/CD, Infrastructure as Code, Microservices, Event-Driven Architecture
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Connect
+- [LinkedIn](https://linkedin.com/ash-mcbride)
+- [Twitter](https://twitter.com/snoriesaurus)
+- [Insta](https://instagram.com/ashisacat)
+
+```go
+package main
+
+func main() {
+    for {
+        code := WriteCleanCode()
+        DeployToCloud(code)
+        MentorTeam()
+        LearnNewThings()
+    }
+}
+```
