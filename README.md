@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Ash. A Tech Lead working on Nando's Online Ordering Platforms
+# 👋 Hi, I'm Ash
 
-I build scalable cloud-native systems using Go and TypeScript. My expertise includes:
+I build scalable cloud-native systems using Go, Rust, and TypeScript for Nando's. My expertise includes:
 
 ### 🛠️ Tech Stack
 - **Languages:** Go, TypeScript, JavaScript
@@ -11,6 +11,12 @@ I build scalable cloud-native systems using Go and TypeScript. My expertise incl
 - [LinkedIn](https://linkedin.com/ash-mcbride)
 - [Twitter](https://twitter.com/snoriesaurus)
 - [Insta](https://instagram.com/ashisacat)
+
+### Reach out for:
+- Fun OSS project assistance
+- Career Advice
+- LoL Teammates
+- WoW M+ teams
 
 ```go
 package main
